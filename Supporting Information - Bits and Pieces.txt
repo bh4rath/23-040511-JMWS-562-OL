@@ -1,0 +1,34 @@
+*Rahul yadav's Blog*
+https://qatechnicals.wordpress.com/j
+
+*Demo Sites for Testing*
+
+https://github.com/BMayhew/awesome-sites-to-test-on#performance-testing
+
+
+*Top 5 tools for testing web application front end performance*
+- Google Lighthouse
+- WebPageTest
+- GTmetrix
+- Pingdom
+- Sitespeed.io
+
+-- Online Tools --
+https://codebeautify.org/
+https://jsonpathfinder.com/
+https://regex101.com/
+https://jmeter-plugins.org/editor/#
+https://jmeter-plugins.org/install/Install/
+
+Quality content sites / blogs
+galing.io
+https://jmeter.apache.org/usermanual/
+https://octoperf.com/blog/
+https://www.blazemeter.com/blog/
+https://www.perfmatrix.com/j
+https://qainsights.com/ 
+
+
+Sample Websites:
+https://gorest.co.in/
+blazedemo.com
